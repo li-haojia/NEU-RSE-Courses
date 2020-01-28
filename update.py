@@ -44,5 +44,7 @@ if __name__ == '__main__':
         x not in EXCLUDE_DIRS), os.listdir('.')))  # list courses
 
     for course in courses:
+        if course=="site":
+            continue
         filelist_texts, readme_path = list_files(course)
         generate_md(course, filelist_texts, readme_path)
