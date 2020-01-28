@@ -1,0 +1,7 @@
+*.o
+*.py[cod]
+*.exe
+*.so
+*.dll
+site/
+working.md
