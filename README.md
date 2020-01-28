@@ -16,7 +16,7 @@
 
 ## 食用说明
 
-目录索引请访问[]
+目录索引请访问[https://mywisdomfly.github.io/NEU-RSE-Courses/](https://mywisdomfly.github.io/NEU-RSE-Courses/)
 ```
 使用 Ctrl+F 进行页面内搜索
 ```
@@ -24,6 +24,7 @@
 
 若要下载单个**文件夹**，复制该文件夹的网址，粘贴入[**DownGit**  https://minhaskamal.github.io/DownGit/#/home](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可。
 
+[Github地址](https://mywisdomfly.github.io/NEU-RSE-Courses/)
 在Github下载缓慢的同学，请步移国内Gitee[]
 目录索引地址 []
 
