@@ -6,4 +6,4 @@
 ## 文件列表
 
 - Linux
-    - [2019 李昊佳 linux作业.zip](https://github.com/mywisdomfly/NEU-RSE-Courses/raw/master/Linux/2019 李昊佳 linux作业.zip)
+    - [2019 李昊佳 linux作业.zip](https://gitee.com/wisfly/NEU-RSE-Courses/raw/master/Linux/2019 李昊佳 linux作业.zip)

@@ -15,18 +15,29 @@
 我们希望只要是**前人走过的弯路，后人就不必再走。** 大家的精力与时间应该浪费在那些值得你浪费的地方。
 
 ## 食用说明
+目录索引请访问 [http://wisfly.gitee.io/neu-rse-courses/](http://wisfly.gitee.io/neu-rse-courses/)  
 
-目录索引请访问[https://mywisdomfly.github.io/NEU-RSE-Courses/](https://mywisdomfly.github.io/NEU-RSE-Courses/)
+Gitee [https://gitee.com/wisfly/NEU-RSE-Courses](https://gitee.com/wisfly/NEU-RSE-Courses)  
+想要下载全部文件，可以将整个Git下载下来，进入Gitee页面，选择`克隆/下载`->`下载zip`即可。  
+也可直接使用git进行同步
+
+```bash
+git clone https://gitee.com/wisfly/NEU-RSE-Courses.git
+```
+
 ```
 使用 Ctrl+F 进行页面内搜索
 ```
+
+
+[Github地址 https://github.com/mywisdomfly/NEU-RSE-Courses/](https://github.com/mywisdomfly/NEU-RSE-Courses/)   
+[Github地址目录索引请访问 https://mywisdomfly.github.io/NEU-RSE-Courses/](https://mywisdomfly.github.io/NEU-RSE-Courses/)  
+
+PS: 文件夹下载现仅支持Github,gitee
 进入相应的文件夹下，点击想要下载的文件，然后选择download
 
-若要下载单个**文件夹**，复制该文件夹的网址，粘贴入[**DownGit**  https://minhaskamal.github.io/DownGit/#/home](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可。
-
-[Github地址](https://github.com/mywisdomfly/NEU-RSE-Courses/)
-在Github下载缓慢的同学，请步移国内Gitee[]
-目录索引地址 []
+若要下载单个**文件夹**，复制该文件夹的网址，粘贴入[**DownGit 国内版**](http://zhoudaxiaa.gitee.io/downgit/#/home)
+或者[**DownGit**](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可。
 
 ## 贡献
 **强烈欢迎各位补充贡献**
@@ -39,9 +50,10 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 或者也可以直接附加在 Issue 中，由维护者进行添加。
 
-对于教师的评价请一律使用姓名拼音首字母缩写；至于教师提供的课件就不用上传了，因为每年说不定会有更新的嘛。
+至于教师提供的课件就不用上传了，因为每年说不定会有更新的嘛。
 
-由于本项目体积很大，故可以采用在Github Web端直接上传的方式，具体操作如下：
+可以直接将本Git同步下来更新  
+也可以采用在Github Web端直接上传的方式，具体操作如下：
 
 1. 首先Fork本项目
 
