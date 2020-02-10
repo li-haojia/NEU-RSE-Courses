@@ -15,25 +15,28 @@
 我们希望只要是**前人走过的弯路，后人就不必再走。** 大家的精力与时间应该浪费在那些值得你浪费的地方。
 
 ## 食用说明
-目录索引请访问 [http://wisfly.gitee.io/neu-rse-courses/](http://wisfly.gitee.io/neu-rse-courses/)  
 
-Gitee [https://gitee.com/wisfly/NEU-RSE-Courses](https://gitee.com/wisfly/NEU-RSE-Courses)  
-想要下载全部文件，可以将整个Git下载下来，进入Gitee页面，选择`克隆/下载`->`下载zip`即可。  
+[目录索引请访问 https://mywisdomfly.github.io/NEU-RSE-Courses/](https://mywisdomfly.github.io/NEU-RSE-Courses/)  
+
+[Github地址 https://github.com/mywisdomfly/NEU-RSE-Courses/](https://github.com/mywisdomfly/NEU-RSE-Courses/)   
+
+**很无奈，由于Gitee的大小限制，我不得不将平台迁移到Github上，gitee仅保留目录**  
+期待有一天东大也有自己的专用git  
+
+想要下载全部文件，可以将整个Git下载下来，进入Github页面，选择`克隆/下载`->`下载zip`即可。  
 也可直接使用git进行同步
 
 ```bash
-git clone https://gitee.com/wisfly/NEU-RSE-Courses.git
+git clone https://github.com/mywisdomfly/NEU-RSE-Courses
 ```
 
 ```
 使用 Ctrl+F 进行页面内搜索
 ```
 
+[gitee目录索引请访问](http://wisfly.gitee.io/neu-rse-courses/)  
 
-[Github地址 https://github.com/mywisdomfly/NEU-RSE-Courses/](https://github.com/mywisdomfly/NEU-RSE-Courses/)   
-[Github地址目录索引请访问 https://mywisdomfly.github.io/NEU-RSE-Courses/](https://mywisdomfly.github.io/NEU-RSE-Courses/)  
 
-PS: 文件夹下载现仅支持Github,gitee
 进入相应的文件夹下，点击想要下载的文件，然后选择download
 
 若要下载单个**文件夹**，复制该文件夹的网址，粘贴入[**DownGit 国内版**](http://zhoudaxiaa.gitee.io/downgit/#/home)

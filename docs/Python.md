@@ -5,9 +5,9 @@
 ## 文件列表
 
 - Python
-    - [电子版教材(仅供临时使用).pdf](https://gitee.com/wisfly/NEU-RSE-Courses/raw/master/Python/电子版教材(仅供临时使用).pdf)
+    - [电子版教材(仅供临时使用).pdf](https://github.com/mywisdomfly/NEU-RSE-Courses/raw/master/Python/电子版教材(仅供临时使用).pdf)
     - 实验课
-        - [2019-李昊佳-第一次实验.zip](https://gitee.com/wisfly/NEU-RSE-Courses/raw/master/Python\实验课/2019-李昊佳-第一次实验.zip)
-        - [2019-李昊佳-第二次实验.zip](https://gitee.com/wisfly/NEU-RSE-Courses/raw/master/Python\实验课/2019-李昊佳-第二次实验.zip)
-        - [2019-第一次实验题.pdf](https://gitee.com/wisfly/NEU-RSE-Courses/raw/master/Python\实验课/2019-第一次实验题.pdf)
-        - [2019-第二次习题.pdf](https://gitee.com/wisfly/NEU-RSE-Courses/raw/master/Python\实验课/2019-第二次习题.pdf)
+        - [2019-李昊佳-第一次实验.zip](https://github.com/mywisdomfly/NEU-RSE-Courses/raw/master/Python\实验课/2019-李昊佳-第一次实验.zip)
+        - [2019-李昊佳-第二次实验.zip](https://github.com/mywisdomfly/NEU-RSE-Courses/raw/master/Python\实验课/2019-李昊佳-第二次实验.zip)
+        - [2019-第一次实验题.pdf](https://github.com/mywisdomfly/NEU-RSE-Courses/raw/master/Python\实验课/2019-第一次实验题.pdf)
+        - [2019-第二次习题.pdf](https://github.com/mywisdomfly/NEU-RSE-Courses/raw/master/Python\实验课/2019-第二次习题.pdf)
