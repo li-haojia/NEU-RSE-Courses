@@ -1,3 +1,4 @@
+#自动更新网站内容脚本
 import os
 
 EXCLUDE_DIRS = ['.git', 'docs', '.vscode', '.circleci']
