@@ -7,3 +7,6 @@
 
 - Linux
     - [2019 李昊佳 linux作业.zip](https://github.com/mywisdomfly/NEU-RSE-Courses/raw/master/Linux/2019 李昊佳 linux作业.zip)
+    - 课件
+        - [2018 linux ppt.zip](https://github.com/mywisdomfly/NEU-RSE-Courses/raw/master/Linux\课件/2018 linux ppt.zip)
+        - [linux从入门到精通.pdf](https://github.com/mywisdomfly/NEU-RSE-Courses/raw/master/Linux\课件/linux从入门到精通.pdf)
