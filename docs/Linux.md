@@ -3,7 +3,16 @@
 不过每年作业应该不同，仅供参考。
 我(2019)最后大作业是一个借助生产者消费者模型写的基于qt图像采集以及边缘处理程序，放在了[传送门](https://github.com/mywisdomfly/qt_camera_edge_detection/settings)
 
-## 文件列表
+## 文件列表(国内Gitee)
+
+- Linux
+    - [2019 李昊佳 linux作业.zip](https://gitee.com/wisfly/NEU-RSE-Courses/raw/master/Linux/2019 李昊佳 linux作业.zip)
+    - 课件
+        - [2018 linux ppt.zip](https://gitee.com/wisfly/NEU-RSE-Courses/raw/master/Linux\课件/2018 linux ppt.zip)
+        - [linux从入门到精通.pdf](https://gitee.com/wisfly/NEU-RSE-Courses/raw/master/Linux\课件/linux从入门到精通.pdf)
+
+
+## 文件列表(Github)
 
 - Linux
     - [2019 李昊佳 linux作业.zip](https://github.com/mywisdomfly/NEU-RSE-Courses/raw/master/Linux/2019 李昊佳 linux作业.zip)

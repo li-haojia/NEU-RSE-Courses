@@ -6,11 +6,30 @@ README_MD = ['README.md', 'readme.md', 'index.md']
 TXT_EXTS = ['md', 'txt']
 TXT_URL_PREFIX = 'https://github.com/mywisdomfly/NEU-RSE-Courses/blob/master/'
 BIN_URL_PREFIX = 'https://github.com/mywisdomfly/NEU-RSE-Courses/raw/master/'
+TXT_URL_PREFIX_gitee = 'https://gitee.com/wisfly/NEU-RSE-Courses/blob/master/'
+BIN_URL_PREFIX_gitee = 'https://gitee.com/wisfly/NEU-RSE-Courses/raw/master/'
 
 
 def list_files(course: str):
-    filelist_texts = '## 文件列表\n\n'
+    filelist_texts = '## 文件列表(国内Gitee)\n\n'
     readme_path = ''
+    for root, dirs, files in os.walk(course):
+        level = root.replace(course, '').count(os.sep)
+        indent = ' ' * 4 * level
+        filelist_texts += '{}- {}\n'.format(indent, os.path.basename(root))
+        subindent = ' ' * 4 * (level + 1)
+        for f in files:
+            if f not in README_MD:
+                if f.split('.')[-1] in TXT_EXTS:
+                    filelist_texts += '{}- [{}]({})\n'.format(subindent,
+                                                              f, '{}{}/{}'.format(TXT_URL_PREFIX_gitee, root,  f))
+                else:
+                    filelist_texts += '{}- [{}]({})\n'.format(subindent,
+                                                              f, '{}{}/{}'.format(BIN_URL_PREFIX_gitee, root,  f))
+            else:
+                if level==0: #only read the first readme
+                    readme_path = '{}/{}'.format(root, f)
+    filelist_texts += '\n\n## 文件列表(Github)\n\n'
     for root, dirs, files in os.walk(course):
         level = root.replace(course, '').count(os.sep)
         indent = ' ' * 4 * level
@@ -24,9 +43,6 @@ def list_files(course: str):
                 else:
                     filelist_texts += '{}- [{}]({})\n'.format(subindent,
                                                               f, '{}{}/{}'.format(BIN_URL_PREFIX, root,  f))
-            else:
-                if level==0: #only read the first readme
-                    readme_path = '{}/{}'.format(root, f)
     return filelist_texts, readme_path
 
 
