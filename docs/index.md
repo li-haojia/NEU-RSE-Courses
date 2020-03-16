@@ -3,6 +3,7 @@
 ## 前言
 
 **知识本应该是大家公有的财富，知识因分享而变得有价值。**  
+**本项目成立于抗击疫情之时，希望能够对大家在家自学有所帮助**
 受到学院要成立资料共享角与[浙江大学的课程攻略](https://github.com/QSCTech/zju-icicles)的启发，我作为老油条(狗头.jpg)，希望能为后来者们搭建一个更好的路。  
 
 正如浙大课程攻略中所说的，有些是需要在网上搜索的电子书，每次见到一门新课程，Google 一下教材名称，有的可以立即找到，有的却是要花费许多眼力；有些是历年试卷或者 A4 纸，前人精心收集制作，抱着能对他人有用的想法公开，却需要在各个群或者从学长手中代代相传；有些是上完一门课才恍然领悟的技巧，原来这门课重点如此，当初本可以更轻松地完成得更好······  
@@ -20,7 +21,7 @@
 
 [Github地址 https://github.com/mywisdomfly/NEU-RSE-Courses/](https://github.com/mywisdomfly/NEU-RSE-Courses/)   
 
-**很无奈，由于Gitee的大小限制，我不得不将平台迁移到Github上，gitee仅保留目录**  
+很无奈，由于Gitee的大小限制，我不得不将平台迁移到Github上，gitee仅保留目录
 期待有一天东大也有自己的专用git  
 
 想要下载全部文件，可以将整个Git下载下来，进入Github页面，选择`克隆/下载`->`下载zip`即可。  
@@ -34,7 +35,9 @@ git clone https://github.com/mywisdomfly/NEU-RSE-Courses
 使用 Ctrl+F 进行页面内搜索
 ```
 
-[gitee目录索引请访问](http://wisfly.gitee.io/neu-rse-courses/)  
+[Gitee目录索引](http://wisfly.gitee.io/neu-rse-courses/)
+
+[Gitee地址](https://gitee.com/wisfly/NEU-RSE-Courses)
 
 
 进入相应的文件夹下，点击想要下载的文件，然后选择download
@@ -45,7 +48,7 @@ git clone https://github.com/mywisdomfly/NEU-RSE-Courses
 ## 贡献
 **强烈欢迎各位补充贡献**
 
-感谢初期提供的大量文件的赵鹏飞学长！
+**感谢初期提供的大量文件的赵鹏飞学长！**
 
 说不定你的作业或者思路或者小tip就成了学弟学妹瞻仰的模板，就成了大家心中的大神(狗头.jpg)。
 
