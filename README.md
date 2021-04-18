@@ -1,4 +1,7 @@
 # 东北大学机器人课程攻略 共享计划
+**由于版权问题，暂时停止访问，文件稍后删除**
+
+<!--
 [![GitHub repo size](https://img.shields.io/github/repo-size/mywisdomfly/NEU-RSE-Courses?label=%E9%A1%B9%E7%9B%AE%E6%80%BB%E5%A4%A7%E5%B0%8F)](https://github.com/mywisdomfly/NEU-RSE-Courses/)
 ## 前言
 
@@ -74,7 +77,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 **资料仅供参考，请自己判断其适用性。**
 
 其他部分的他人提交内容版权归属于其各自的作者，部分资料来自网络，相关权利由原作者所有。
-
+-->
 ## 相关链接
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [北京大学课程资料收集](https://github.com/lib-pku/libpku)
